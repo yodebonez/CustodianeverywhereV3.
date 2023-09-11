@@ -1,0 +1,17 @@
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\bin\Debug\net6.0\Custodian.Life.Api.Services.deps.json
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\bin\Debug\net6.0\Custodian.Life.Api.Services.dll
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\bin\Debug\net6.0\Custodian.Life.Api.Services.pdb
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\bin\Debug\net6.0\Custodian.Life.Helpers.dll
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\bin\Debug\net6.0\Custodian.Life.Models.dll
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\bin\Debug\net6.0\Custodian.Life.Helpers.pdb
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\bin\Debug\net6.0\Custodian.Life.Models.pdb
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\Custodian.Life.Api.Services.csproj.AssemblyReference.cache
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\Custodian.Life.Api.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\Custodian.Life.Api.Services.AssemblyInfoInputs.cache
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\Custodian.Life.Api.Services.AssemblyInfo.cs
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\Custodian.Life.Api.Services.csproj.CoreCompileInputs.cache
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\Custodian.Life.Api.Services.csproj.CopyComplete
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\Custodian.Life.Api.Services.dll
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\refint\Custodian.Life.Api.Services.dll
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\Custodian.Life.Api.Services.pdb
+C:\dev\custodian\Custodian.Life\Custodian.Life.Api.Services\obj\Debug\net6.0\ref\Custodian.Life.Api.Services.dll

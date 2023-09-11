@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custodian.Life.Api", "Custodian.Life.Api\Custodian.Life.Api.csproj", "{F2501AAA-8EC7-44CF-B29A-5CCC49EC17DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7A55F099-F9AC-42EE-BF38-3BB30435B561}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{534ACE14-E924-4291-8831-9AB57B42F5BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custodian.Life.Api.Services", "Custodian.Life.Api.Services\Custodian.Life.Api.Services.csproj", "{296D624D-766D-49BB-8AB7-8B2267CC0C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custodian.Life.Models", "Custodian.Life.Models\Custodian.Life.Models.csproj", "{D29CB0FE-5A53-440C-9232-9845D53DE22D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custodian.Life.Helpers", "Custodian.Life.Helpers\Custodian.Life.Helpers.csproj", "{B125A211-BA8C-4457-9122-BF3C13241EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2501AAA-8EC7-44CF-B29A-5CCC49EC17DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2501AAA-8EC7-44CF-B29A-5CCC49EC17DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2501AAA-8EC7-44CF-B29A-5CCC49EC17DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2501AAA-8EC7-44CF-B29A-5CCC49EC17DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296D624D-766D-49BB-8AB7-8B2267CC0C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296D624D-766D-49BB-8AB7-8B2267CC0C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296D624D-766D-49BB-8AB7-8B2267CC0C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296D624D-766D-49BB-8AB7-8B2267CC0C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29CB0FE-5A53-440C-9232-9845D53DE22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29CB0FE-5A53-440C-9232-9845D53DE22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29CB0FE-5A53-440C-9232-9845D53DE22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29CB0FE-5A53-440C-9232-9845D53DE22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B125A211-BA8C-4457-9122-BF3C13241EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B125A211-BA8C-4457-9122-BF3C13241EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B125A211-BA8C-4457-9122-BF3C13241EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B125A211-BA8C-4457-9122-BF3C13241EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F2501AAA-8EC7-44CF-B29A-5CCC49EC17DE} = {7A55F099-F9AC-42EE-BF38-3BB30435B561}
+		{296D624D-766D-49BB-8AB7-8B2267CC0C3A} = {534ACE14-E924-4291-8831-9AB57B42F5BE}
+		{D29CB0FE-5A53-440C-9232-9845D53DE22D} = {534ACE14-E924-4291-8831-9AB57B42F5BE}
+		{B125A211-BA8C-4457-9122-BF3C13241EB1} = {534ACE14-E924-4291-8831-9AB57B42F5BE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61286CDD-54A9-4F2A-8A59-B7DB8FDD5115}
+	EndGlobalSection
+EndGlobal

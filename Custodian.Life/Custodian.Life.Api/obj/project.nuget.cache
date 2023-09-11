@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0i9nfQXQHeDtyqZY5q7ZTdYbjFiIN27K6/Tl6Rw3tTdtiPINhkK+ynN+8yMh9BoWX/xRSoyNBUZUf77f8bnhw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\custodian\\Custodian.Life\\Custodian.Life.Api\\Custodian.Life.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yodeb\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\yodeb\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\yodeb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

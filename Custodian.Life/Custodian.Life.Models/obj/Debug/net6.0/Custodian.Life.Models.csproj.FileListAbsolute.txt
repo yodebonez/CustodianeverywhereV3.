@@ -1,0 +1,12 @@
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\bin\Debug\net6.0\Custodian.Life.Models.deps.json
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\bin\Debug\net6.0\Custodian.Life.Models.dll
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\bin\Debug\net6.0\Custodian.Life.Models.pdb
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\obj\Debug\net6.0\Custodian.Life.Models.csproj.AssemblyReference.cache
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\obj\Debug\net6.0\Custodian.Life.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\obj\Debug\net6.0\Custodian.Life.Models.AssemblyInfoInputs.cache
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\obj\Debug\net6.0\Custodian.Life.Models.AssemblyInfo.cs
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\obj\Debug\net6.0\Custodian.Life.Models.csproj.CoreCompileInputs.cache
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\obj\Debug\net6.0\Custodian.Life.Models.dll
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\obj\Debug\net6.0\refint\Custodian.Life.Models.dll
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\obj\Debug\net6.0\Custodian.Life.Models.pdb
+C:\dev\custodian\Custodian.Life\Custodian.Life.Models\obj\Debug\net6.0\ref\Custodian.Life.Models.dll
