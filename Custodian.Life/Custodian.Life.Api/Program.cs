@@ -1,4 +1,5 @@
 using Custodian.Life.Api.Services.Services;
+using Custodian.Life.Helpers.Helpers;
 
 namespace Custodian.Life.Api
 {
@@ -8,6 +9,13 @@ namespace Custodian.Life.Api
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
+            builder.Services.Configure<ConnectionStringOptions>(builder.Configuration.GetSection(ConnectionStringOptions.Position));
+
+
+
             // Add services to the container.
 
             builder.Services.AddControllers();
@@ -16,9 +24,18 @@ namespace Custodian.Life.Api
                 cfg.RegisterServicesFromAssemblies(typeof(Services.PolicyServices.GetPolicyHandler).Assembly);
             });
 
-            builder.Services.AddScoped<IPolicyServices>(services => new PolicyServices("myconnectionstring"));
+            // builder.Services.AddScoped<IPolicyServices>(services => new PolicyServices("myconnectionstring"));
+
+            builder.Services.AddScoped<IPolicyServices,PolicyServices>();
 
             var app = builder.Build();
+
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
 
             // Configure the HTTP request pipeline.
 
